@@ -10,7 +10,7 @@
     - [Running](#running)
 - [Examples](#examples)
     - [Training](#training)
-    - [Infer Process](#infer)
+    - [Infer](#infer)
 - [Model Description](#model-description)
     - [Performance](#performance)
 - [Citation](#citation)
