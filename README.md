@@ -121,7 +121,7 @@ The infer log can be viewed in `./eval_result.log`
 
 # [Model Desrcription](#contents)
 
-## [Perfermance](#contents)
+## [Performance](#contents)
 
 ### VisTR on YouTube-VIS dataset
 
